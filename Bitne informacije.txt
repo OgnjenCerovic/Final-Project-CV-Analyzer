@@ -1,0 +1,10 @@
+Pozdrav profesore, evo samo par informacija uz projekat.
+
+Selena (selena@example.com) je Employer i ona vidi sve Employee-e i njihove CV's.
+Ostali su svi random useri, Employees, koji uploaduju CV-eve. Ostavio sam tu par primera, ostali koji nemaju uploadan to mogu uraditi naravno.
+
+Za sada sam povezao s API-jem tako da je na neki nacin format limited (iako uglavnom cita sve CV's) ali uz dodatan rad napravio bih CV parser koji bi radio za sve formate. (AI chat i Resume radi dobro za svaki format, samo Job Reccomendations nekada ne)
+
+Sifra za sve usere je 'password'.
+
+Gallery je takodje AI implemented, jer vuce genericke random slike sa interneta.
