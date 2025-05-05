@@ -1,0 +1,20 @@
+nemanjapopovic@gmail.com
+pw: password
+
+ognjencerovic262@gmail.com
+pw: password
+
+lukakovacevic@gmail.com
+pw: password
+
+davidstanimirovic@gmail.com
+pw: password
+
+danielgallego@gmail.com	
+pw: password
+
+Ovo su useri sa uploudovanim CV-em.
+
+Logovanje za ostalo je isti template (ime+prezime @gmail.com a password je password)
+
+Pozdrav!
